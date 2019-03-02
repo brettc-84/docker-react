@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React Now or Later
           </a>
+          <p>Changed on feature branch!</p>
         </header>
       </div>
     );
